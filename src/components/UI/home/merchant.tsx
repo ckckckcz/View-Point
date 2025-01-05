@@ -59,7 +59,7 @@ export default function Merchant() {
   return (
     <section className="bg-white">
         <div className="py-8 px-4 mx-auto max-w-screen-xl lg:text-left lg:py-16">
-            <h1 className="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl">
+            <h1 className="mb-4 text-4xl lg:text-center text-left font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl">
                 Our Gear
             </h1>
             <div className="grid grid-cols-1 lg:grid lg:grid-cols-3 md:grid md:grid-cols-2 lg:gap-10 md:gap-5 lg:mt-10 mt-0">
