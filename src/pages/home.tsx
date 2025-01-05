@@ -1,5 +1,6 @@
 import About from "../components/UI/home/aboutUs"; 
 import Merchant from "../components/UI/home/merchant";
+import Promotion from "../components/UI/promotion";
 const Home = () => {
     return(
         <>
@@ -18,6 +19,7 @@ const Home = () => {
             </section>
             <About />
             <Merchant />
+            <Promotion />  
         </>
     );
 };
