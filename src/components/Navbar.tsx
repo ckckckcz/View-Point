@@ -6,7 +6,7 @@ export default function Navbar() {
                 <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl p-6">
                     <a href="https://flowbite.com" className="flex items-center space-x-3 rtl:space-x-reverse">
                         <img src="https://flowbite.com/docs/images/logo.svg" className="h-8" alt="View Point Logo" />
-                        <span className="self-center text-2xl font-semibold whitespace-nowrap">View Point</span>
+                        <span className="self-center text-2xl font-semibold whitespace-nowrap lg:block hidden">View Point</span>
                     </a>
                     <div className="flex items-center space-x-5 rtl:space-x-reverse">
                         <div className="flex items-center space-x-2">
@@ -27,7 +27,7 @@ export default function Navbar() {
                 </div>
             </nav>
             <nav className="bg-gray-50">
-                <div className="max-w-screen-xl p-6 mx-auto">
+                <div className="max-w-screen-xl px-6 py-4 mx-auto">
                     <div className="flex items-center">
                         <ul className="flex flex-row font-medium mt-0 space-x-8 rtl:space-x-reverse text-sm">
                             <li>
