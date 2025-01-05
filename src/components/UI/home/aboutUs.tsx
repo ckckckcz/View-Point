@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 
 const images = [
     "https://cdn.forumcomm.com/dims4/default/c201f80/2147483647/strip/true/crop/3332x2221+272+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F61%2F50%2F6df444424c7cb8796a56beed81c3%2F071622.S.FF.HorseRacing.04.jpg",
